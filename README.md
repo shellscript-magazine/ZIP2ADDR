@@ -1,2 +1,2 @@
-# ZIP2ADDR
-this Program is post code to address search system of ShellScript Magazine Vol.78
+# シェルスクリプトマガジン Vol.79 特集3
+シェルスクリプトマガジン Vol.79（2022年8月号）の特集3で作成した郵便番号・住所検索プログラムのソースコードをまとめました。
